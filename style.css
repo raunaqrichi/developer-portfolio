@@ -52,3 +52,17 @@ h2{
     background-repeat: no-repeat;
     background-position: left;
 }
+#full-stack-dv{
+    border-left: 7px solid;
+    border-image: linear-gradient(coral,tomato);
+    border-image-slice: 1;
+    
+}
+#baby-dv{
+    border-left: 7px solid;
+    border-image: linear-gradient(purple,lightblue);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
